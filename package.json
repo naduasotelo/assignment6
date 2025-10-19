@@ -1,0 +1,8 @@
+{
+  "name": "ci-lab",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p dist && echo 'build done' > dist/file.txt",
+    "test": "echo 'Tests passed!'"
+  }
+}
