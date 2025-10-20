@@ -5,7 +5,7 @@ const VERSION = "1.1.0";
 
 function renderHeader() {
 
-  console.log("Header: Welcome to the Lab");
+  console.log("Header: Hello from feature A");
 }
 
 function renderBody() {
